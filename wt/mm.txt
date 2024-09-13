@@ -1,9 +1,0 @@
-jenkins
-ip:13.235.78.101
-skey: 5a10a76798224ac6a5ccd6fef02e2400
-user:varun
-pssd:12345vt6
-mail:1706
-------------------------
-sonarqube
-ip13.201.225.194
